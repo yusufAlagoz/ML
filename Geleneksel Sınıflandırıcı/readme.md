@@ -1,0 +1,1 @@
+Geleneksel sınıflandırıcılar ile ilgili yöntemlere yer verilecektir.
