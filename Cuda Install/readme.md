@@ -1,9 +1,13 @@
 
-#Önceden Kurulu driver ve cuda dosyaların kaldırılması kısmı. 
+##Önceden Kurulu driver ve cuda dosyaların kaldırılması kısmı. 
 sudo apt-get purge nvidia*
+
 sudo apt remove nvidia-*
+
 sudo rm /etc/apt/sources.list.d/cuda*
+
 sudo apt-get autoremove && sudo apt-get autoclean
+
 sudo rm -rf /usr/local/cuda*
 
 
