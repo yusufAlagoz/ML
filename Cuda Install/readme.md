@@ -57,8 +57,8 @@ source ~/.bashrc
 sudo ldconfig
 
 ## Cudnn dosyası kururlur. Bu dosya indirilebilmesi için nvida'ya üye olmak gerekir. Aşağıdaki linkten üye olunabilir.
-#  https://developer.nvidia.com/developer-program/signup
-# Sonra bu dosya indirilir. https://developer.nvidia.com/cudnn
+# https://developer.nvidia.com/developer-program/signup
+# Bu sayfaya gidilir. https://developer.nvidia.com/cudnn
 wget https://developer.nvidia.com/compute/machine-learning/cudnn/secure/7.6.5.32/Production/10.1_20191031/cudnn-10.1-linux-x64-v7.6.5.32.tgz
 
 tar -xzvf cudnn-10.0-linux-x64-v7.6.5.32.tgz
