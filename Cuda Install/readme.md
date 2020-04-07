@@ -1,3 +1,4 @@
+# Makine öğrenmesi algoritmalarının GPU üzerinde çalıştırılması için Cuda kurulumu detaylı anlatımı
 
 ## Önceden Kurulu driver ve cuda dosyaların kaldırılması kısmı. 
 sudo apt-get purge nvidia*
